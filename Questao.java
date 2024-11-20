@@ -15,3 +15,8 @@ public class Questao {
         this.alternativas = alternativas;
         this.respostaCorreta = respostaCorreta;
     }
+
+    // Getter para obter a pergunta
+    public String getPergunta() {
+        return pergunta;
+    }
