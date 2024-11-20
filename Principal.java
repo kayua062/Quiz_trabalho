@@ -40,3 +40,5 @@ public class Principal {
                 new String[]{"Ollie", "Kickflip", "Heelflip", "Pop Shuvit", "Manual"}, 0);
         questoes[12] = new Questao("O que são os 'risers' de skate?",
                 new String[]{"Pedaços de madeira que protegem o deck", "Espaçadores para as rodas", "Espaçadores entre o truck e o deck", "Proteção para as rolamentos", "Rodas de reserva"}, 2);
+        questoes[13] = new Questao("Qual é a função de um 'bearings spacer'?",
+                new String[]{"Ajustar a lixa", "Espaçar as rodas do truck", "Ajustar o tamanho das rodas", "Ajustar o tamanho do deck", "Aumentar a velocidade do skate"}, 1);
