@@ -38,3 +38,5 @@ public class Principal {
                 new String[]{"EUA", "Brasil", "França", "Japão", "México"}, 0);
         questoes[11] = new Questao("Qual é o nome da famosa manobra de skate onde o skatista dá um salto e gira o deck 180 graus?",
                 new String[]{"Ollie", "Kickflip", "Heelflip", "Pop Shuvit", "Manual"}, 0);
+        questoes[12] = new Questao("O que são os 'risers' de skate?",
+                new String[]{"Pedaços de madeira que protegem o deck", "Espaçadores para as rodas", "Espaçadores entre o truck e o deck", "Proteção para as rolamentos", "Rodas de reserva"}, 2);
