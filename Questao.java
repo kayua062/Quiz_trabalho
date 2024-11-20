@@ -10,3 +10,8 @@ public class Questao {
         if (respostaCorreta < 0 || respostaCorreta >= alternativas.length) {
             throw new IllegalArgumentException("Índice da resposta correta inválido.");
         }
+
+        this.pergunta = pergunta;
+        this.alternativas = alternativas;
+        this.respostaCorreta = respostaCorreta;
+    }
