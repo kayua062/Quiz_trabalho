@@ -36,3 +36,5 @@ public class Principal {
                 new String[]{"Parte da roda", "Parte do deck com curvatura para manobras", "Peça do truck", "O tipo de lixa", "O rolamento do skate"}, 1);
         questoes[10] = new Questao("Qual é a origem do skate?",
                 new String[]{"EUA", "Brasil", "França", "Japão", "México"}, 0);
+        questoes[11] = new Questao("Qual é o nome da famosa manobra de skate onde o skatista dá um salto e gira o deck 180 graus?",
+                new String[]{"Ollie", "Kickflip", "Heelflip", "Pop Shuvit", "Manual"}, 0);
