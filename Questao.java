@@ -20,3 +20,8 @@ public class Questao {
     public String getPergunta() {
         return pergunta;
     }
+
+    // Getter para obter as alternativas
+    public String[] getAlternativas() {
+        return alternativas;
+    }
