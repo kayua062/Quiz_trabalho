@@ -44,3 +44,5 @@ public class Principal {
                 new String[]{"Ajustar a lixa", "Espaçar as rodas do truck", "Ajustar o tamanho das rodas", "Ajustar o tamanho do deck", "Aumentar a velocidade do skate"}, 1);
         questoes[14] = new Questao("Qual é o nome da peça responsável por conectar as rodas aos trucks?",
                 new String[]{"Eixo", "Pino", "Parafuso", "Ponte", "Base plate"}, 0);
+    }
+}
